@@ -3,3 +3,13 @@ repositories:
     description: hopefully from template.
   - name: myorg2repo
     description: hopefully from template.    
+repoTeams:
+  - teamName: myorg2repo-team
+teamMemberships:
+  - teamName: myorg2repo-team
+    userName: rossbugginsNHS
+teamAssignments:
+  - teamName: myorg2repo-team
+    repoName: myorg2repo
+    role: maintain
+    
