@@ -1,3 +1,5 @@
 repositories:
   - name: helloworld
     description: hopefully from template.
+  - name: myorg2repo
+    description: hopefully from template.    
