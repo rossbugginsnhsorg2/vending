@@ -1,0 +1,3 @@
+repositories:
+  - name: helloworld
+    description: hopefully from template.
