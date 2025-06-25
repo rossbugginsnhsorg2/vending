@@ -5,6 +5,15 @@ repositories:
     description: hopefully from template.    
 repoTeams:
   - teamName: myorg2repo-team
+  - teamName: myorg2repo-team2  
+  - teamName: myorg2repo-team3
+  - teamName: myorg2repo-team4
+  - teamName: myorg2repo-team5
+  - teamName: myorg2repo-team6
+  - teamName: myorg2repo-team7
+  - teamName: myorg2repo-team8
+  - teamName: myorg2repo-team9
+  - teamName: myorg2repo-team10
 teamMemberships:
   - teamName: myorg2repo-team
     userName: rossbugginsNHS
